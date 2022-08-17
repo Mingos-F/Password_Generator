@@ -12,7 +12,11 @@ A simple program that allows the generation of a password given certain rules ch
 3. Chose if numbers should be added to the password.  <br />
 4. Chose if upper case letters  should be added to the password (only lowercase by default).  <br />
 
-https://user-images.githubusercontent.com/104300752/185100513-978dffbb-6025-4315-a5ce-4f5c160ebfc0.mp4
+
+
+https://user-images.githubusercontent.com/104300752/185100692-0ac6bc52-0a85-4e7d-8099-1e3a9195fc9a.mp4
+
+
 
 ## Licence
 
